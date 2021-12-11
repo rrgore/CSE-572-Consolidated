@@ -1,0 +1,9 @@
+*.pdf
+*.txt
+*.docx
+*.zip
+*/Lib/*
+*/Scripts/*
+*/share/*
+*.csv
+assn4/*
