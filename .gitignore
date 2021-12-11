@@ -7,3 +7,6 @@
 */share/*
 *.csv
 assn4/*
+*/Include/*
+*/libs/*
+*.xlsx
